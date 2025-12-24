@@ -11,7 +11,7 @@ function Blog() {
       <CardList />
       <Discover/>
       <Parking/>
-      <Footer/>
+      
     </div>
   );
 }

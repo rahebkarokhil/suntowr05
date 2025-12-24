@@ -16,7 +16,7 @@ function About() {
       <Choose />
       <Need/>
     
-      <Footer/>
+    
     </div>
   );
 }

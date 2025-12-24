@@ -26,7 +26,7 @@ function Home() {
       <Recent />
       <Explor />
       <Parking />
-      <Footer />
+      
     </div>
   );
 }
